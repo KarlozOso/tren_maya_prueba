@@ -38,6 +38,7 @@
   transition: all 0.2s ease-in-out;
 }
 .NavbarItems{
+  background-color: #fff;
     display: flex;
     flex: content;
     justify-content: space-between;
