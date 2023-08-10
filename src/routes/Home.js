@@ -1,6 +1,10 @@
 import Destination from "../components/Destination";
+import Trip from "../components/Trip";
 import Hero from "../components/Hero"
+import Train from '../assets/IMG_2919.jpeg'
 import Navbar from "../components/Navbar"
+import Footer from "../components/Footer"
+
 
 
 function Home (){
@@ -9,13 +13,15 @@ function Home (){
           <Navbar />
           <Hero 
             cName='hero'
-            heroImg='https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1174&q=80' 
-        title='Your Journey Your Story'
-        text='Choose your ravorite destination'
-            buttonText='Travel Plan'
+            heroImg={Train}
+        title='Tu proximo destino te espera'
+        text='Aqui comienza tu proxima aventura'
+            buttonText='Plan de viaje'
             url='/' 
             btnClass='show'/>
-            <Destination/>
+            <Destination />
+          <Trip />
+          <Footer />
         </>
     )
 }
