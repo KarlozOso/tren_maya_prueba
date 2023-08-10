@@ -34,7 +34,8 @@
 .nav-links:hover{
   background-color: #01959a;
   color: #fff;
-  border-radius: 4px;
+  border-radius: 8px;
+  padding-right: 10px;
   transition: all 0.2s ease-in-out;
 }
 .NavbarItems{
