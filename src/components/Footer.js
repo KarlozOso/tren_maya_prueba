@@ -25,39 +25,39 @@ const Footer = () => {
       <div className='bottom'>
       <div>
         <h4>
-        Projects
+        Destinos
           </h4>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
+        <a href='/'> Campeche</a>
+        <a href='/'> Yucatan</a>
+        <a href='/'> Chiapas</a>
+        <a href='/'> Quintana Roo</a>
       </div>
         <div>
         <h4>
-        Projects
+        Recorridos
           </h4>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
+        <a href='/'> Tulum</a>
+        <a href='/'> Uxmal</a>
+        <a href='/'> Chichen Itza</a>
+        <a href='/'> Bacalar</a>
       </div>
         <div>
         <h4>
-        Projects
+        Servicios
           </h4>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
+        <a href='/'> Hospedaje</a>
+        <a href='/'> Recorridos</a>
+        <a href='/'> Recuerdos</a>
+        <a href='/'> Alimentos</a>
       </div>
         <div>
         <h4>
-        Projects
+        Informacion
           </h4>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
-        <a href='/'> Changelog</a>
+        <a href='/'> FAQ</a>
+        <a href='/'> Ubicaciones</a>
+        <a href='/'> Costos</a>
+        <a href='/'> Tramos</a>
       </div>
       </div>
     </div>
